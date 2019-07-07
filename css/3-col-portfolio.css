@@ -1,0 +1,109 @@
+/*!
+ * Start Bootstrap - 3 Col Portfolio (http://startbootstrap.com/)
+ * Copyright 2013-2016 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap/blob/gh-pages/LICENSE)
+ */
+
+body {
+    padding-top: 70px; /* Required padding for .navbar-fixed-top. Remove if using .navbar-static-top. Change if height of navigation changes. */
+    background-color: #E7DFE8;
+    color: black;
+}
+
+a:link {
+	color:#B174B9;
+}
+
+a:visited {
+	color:#B174B9;
+    text-decoration: none;
+}
+
+a:hover {
+	color:#D8BBDC;
+    text-decoration: none;
+}
+
+a:active {
+	color:#B174B9;
+    text-decoration: none;
+}
+
+.nav a{
+	color: white;
+}
+
+.portfolio-item {
+    margin-bottom: 25px;
+}
+
+footer {
+    margin: 50px 0;
+}
+
+.videowrapperinner{
+	height: 0px;
+    padding-bottom: 56.25%;
+    position: relative;
+}
+
+.videowrapperinner iframe{
+	 width: 100%;
+    height: 100%;
+    position: absolute;
+}
+
+
+.contentwrapper{
+	max-width: 640px;
+	max-height: 360px;
+	width: 100%;
+	height: 100%;
+	margin: 0 auto 0 auto;
+}
+
+
+.navbar-fixed-top {
+    background-color: #B174B9;
+    border-color: #B174B9;
+    border-radius: 0;
+}
+
+.navbar-fixed-top .navbar-brand,
+.navbar-fixed-top .navbar-brand:hover,
+.navbar-fixed-top .navbar-brand:focus {
+    color: #FFF;
+}
+
+.navbar-fixed-top .navbar-nav > li > a {
+    color: #FFF;
+}
+
+.navbar-fixed-top .navbar-nav > li > a:hover,
+.navbar-fixed-top .navbar-nav > li > a:focus {
+    background-color: #B174B9;
+}
+
+.navbar-fixed-top .navbar-nav > .active > a,
+.navbar-fixed-top .navbar-nav > .active > a:hover,
+.navbar-fixed-top .navbar-nav > .active > a:focus {
+    color: #FFF;
+    background-color: #D8BBDC;
+}
+
+.navbar-fixed-top .navbar-text {
+    color: #FFF;
+}
+
+.navbar-fixed-top .navbar-toggle {
+    border-color: #B174B9;
+}
+
+.navbar-fixed-top .navbar-toggle:hover,
+.navbar-fixed-top .navbar-toggle:focus {
+    background-color: #B174B9;
+}
+
+.navbar-fixed-top .navbar-toggle .icon-bar {
+    background-color: #FFF;
+}
