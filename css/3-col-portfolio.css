@@ -6,26 +6,26 @@
 
 body {
     padding-top: 70px; /* Required padding for .navbar-fixed-top. Remove if using .navbar-static-top. Change if height of navigation changes. */
-    background-color: #E7DFE8;
+    background-color: #FFF2F2;
     color: black;
 }
 
 a:link {
-	color:#B174B9;
+	color:#FFB5B5;
 }
 
 a:visited {
-	color:#B174B9;
+	color:#FFB5B5;
     text-decoration: none;
 }
 
 a:hover {
-	color:#D8BBDC;
+	color:#FF8282;
     text-decoration: none;
 }
 
 a:active {
-	color:#B174B9;
+	color:#FFB5B5;
     text-decoration: none;
 }
 
@@ -64,31 +64,32 @@ footer {
 
 
 .navbar-fixed-top {
-    background-color: #B174B9;
-    border-color: #B174B9;
+    background-color: #FFD8D8;
+    border-color: #FFD8D8;
     border-radius: 0;
 }
 
 .navbar-fixed-top .navbar-brand,
 .navbar-fixed-top .navbar-brand:hover,
 .navbar-fixed-top .navbar-brand:focus {
-    color: #FFF;
+    color: #000;
 }
 
 .navbar-fixed-top .navbar-nav > li > a {
-    color: #FFF;
+    color: #000;
 }
 
 .navbar-fixed-top .navbar-nav > li > a:hover,
 .navbar-fixed-top .navbar-nav > li > a:focus {
-    background-color: #B174B9;
+    color: #000;
+    background-color: #FFB5B5;
 }
 
 .navbar-fixed-top .navbar-nav > .active > a,
 .navbar-fixed-top .navbar-nav > .active > a:hover,
 .navbar-fixed-top .navbar-nav > .active > a:focus {
-    color: #FFF;
-    background-color: #D8BBDC;
+    color: #000;
+    background-color: #FFB5B5;
 }
 
 .navbar-fixed-top .navbar-text {
@@ -96,12 +97,12 @@ footer {
 }
 
 .navbar-fixed-top .navbar-toggle {
-    border-color: #B174B9;
+    border-color: #FFD8D8;
 }
 
 .navbar-fixed-top .navbar-toggle:hover,
 .navbar-fixed-top .navbar-toggle:focus {
-    background-color: #B174B9;
+    background-color: #FFB5B5;
 }
 
 .navbar-fixed-top .navbar-toggle .icon-bar {
